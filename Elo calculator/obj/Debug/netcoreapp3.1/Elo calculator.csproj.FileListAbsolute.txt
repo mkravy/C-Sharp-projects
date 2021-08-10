@@ -1,0 +1,17 @@
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\Elo calculator.exe
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\Elo calculator.deps.json
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\Elo calculator.runtimeconfig.json
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\Elo calculator.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\Elo calculator.dll
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\Elo calculator.pdb
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.AssemblyInfo.cs
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.dll
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.pdb
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.genruntimeconfig.cache
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.csproj.CopyComplete
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micha\source\repos\Elo calculator\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Elo calculator\obj\Debug\netcoreapp3.1\Elo calculator.csproj.CoreCompileInputs.cache

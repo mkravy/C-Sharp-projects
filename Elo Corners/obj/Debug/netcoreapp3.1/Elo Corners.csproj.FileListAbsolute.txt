@@ -1,0 +1,19 @@
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\Elo Corners.exe
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\Elo Corners.deps.json
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\Elo Corners.runtimeconfig.json
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\Elo Corners.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\Elo Corners.dll
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\Elo Corners.pdb
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\micha\source\repos\Elo Corners\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.AssemblyInfo.cs
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.csproj.CopyComplete
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.dll
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.pdb
+C:\Users\micha\source\repos\Elo Corners\obj\Debug\netcoreapp3.1\Elo Corners.genruntimeconfig.cache
